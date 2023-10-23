@@ -1,7 +1,7 @@
 ![MasterHead](https://onlineegitimmerkezi.net/resimler/egitim/siber-guvenlik-gorsel.jpg)
 
 <h1 align="center">Hi 👋, I'm Ömer Şentürk</h1>
-<h3 align="center">A Cyber Security Enthusiast form Turkey</h3>
+<h3 align="center">A Cyber Security Enthusiast from Turkey</h3>
 
 - 🌱 I’m currently learning **Pyhton, Linux**
 
