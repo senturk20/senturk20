@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ömer Şentürk</h1>
 <h3 align="center">A Cyber Security Enthusiast from Turkey</h3>
 
-- 🌱 I’m currently learning **Pyhton and Linux**
+- 🌱 I’m currently learning **Python and Linux**
 
 - 📫 How to reach me **omersenturk178@gmail.com**
 
