@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.freepik.com/free-vector/cyber-security-concept_4520118.htm#fromView=keyword&page=1&position=32&uuid=7adac898-7927-4929-a5f4-ac80734b6107&query=Cyber+security" width="100%" alt="Cyber Security Header" style="border-radius: 10px;" />
+  
   
   <h1>Hi 👋, I'm Ömer Şentürk</h1>
   <h3>Computer Engineering Student | Cybersecurity & IT Operations</h3>
