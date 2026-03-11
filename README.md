@@ -3,7 +3,7 @@
   
   <h1>Hi 👋, I'm Ömer Şentürk</h1>
   <h3>Computer Engineering Student | Cybersecurity & IT Operations</h3>
-  <p>Currently a 4th-year student at <b>Eskişehir Technical University</b></p>
+  <p>Currently a senior-year student at <b>Eskişehir Technical University</b></p>
 </div>
 
 ---
